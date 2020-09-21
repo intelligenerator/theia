@@ -2,7 +2,7 @@
 
 :construction: This project is in beta!
 
-Gather intelligence from satellite data.
+Cut out houses from satellite imagery.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][1]
 
