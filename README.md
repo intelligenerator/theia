@@ -49,11 +49,16 @@ running.
 Clone the git repository
 
 ```bash
-git clone https://github.com/intelligenerator/theia.git
-cd theia/
+git clone https://github.com/intelligenerator/aquila.git
+git clone https://github.com/intelligenerator/aquila.git
+cd aquila/
+cd aquila/
 git submodule init
-git submodule update
+git submodule init
 git config submodule.recurse true
+git config submodule.recurse true
+git submodule update
+git submodule update --init --recursive
 ```
 
 Next, Download the xView2 dataset into the `data/` folder.
